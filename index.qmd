@@ -1,66 +1,199 @@
 ---
-title: "Mohammad Amin Faraji"
-image: avatar.jpg
+title: "Alireza Shooshtari"
+image: Picture.png
 about:
   template: trestles
   links:
     - text: LinkedIn
-      url: "https://www.linkedin.com/in/nimafaraji/"
-    - text: Twitter
-      icon: twitter
-      url: "https://twitter.com/darvacki"
+      url: "https://www.linkedin.com/in/alireza-shooshtari/"
     - text: GitHub
       icon: github
-      url: "https://github.com/nimafrj"
+      url: "https://github.com/Alirezashooshtari"
     - text: Email
-      url: "mailto:frjnima@gmail.com"
-    - text: Blog
-      url: "Blog"
+      url: "mailto:a.shooshtari1996@gmail.com"
     - text: CV
-      url: "cv2.pdf"
+      url: "Alireza Shooshtari CV.pdf"
 comments: false
 ---
 
 ::: column-page
-## Bio
+## About Me
 
-Hi! I'm Mohammad Amin, a recent graduate of the University of Tehran with a master's degree in mechanical engineering.
+Hello, my name is Alireza and I am a recent graduate of Tehran University with a degree in power engineering. My research interests lie in the applications of artificial intelligence and machine learning in various fields such as medicine, genetics, and electricity. My ultimate goal is to become an influential person in the improvement of society and people's lives, and I believe that artificial intelligence is a suitable tool for achieving this goal. At present, my aspiration is to obtain a Ph.D. in computer science or AI engineering in order to make additional contributions to the field of artificial intelligence.
 
-My research interests include Auxetic Mechanical Structures, Machine Vision, Autoencoders, and Optimization. I'd rather be called "Nima" as I go by this among my friends!
-
-I'm passionate about using my knowledge to make a positive impact on society. In the future, I hope to pursue a Ph.D. in computer science and work on projects involving machine learning since this greatly impacts human lives. I'd like to have my own contributions.
-
-When not working on my research, I enjoy playing chess [on chess.com](https://www.chess.com/member/darvack), reading [Tim Urban's blog](https://waitbutwhy.com/), or listening to [Lex Fridman's podcasts](https://www.youtube.com/@lexfridman).
-
-On this site, you'll find a list of my publications, notable projects, [my CV](cv2.pdf), and a simple [blog](Blog) where I share my thoughts on computer science, life, and self-improvement.
+In my spare time, I enjoy watching movies, studying astronomy and physics, as well as football.
 :::
 
 ::: column-page
-## Selected Projects
+```{=html}
+          <div id="education" data-w-id="2c86c950-4b72-78b3-45ed-fc9607e278fe"  class="about-intro w-clearfix">
+<!--            <div class="figure-right"><img src="assets/img/uni.jpg" sizes="(max-width: 479px) 87vw, (max-width: 767px) 36vw, (max-width: 991px) 33vw, 424px" alt="" />-->
+<!--            <div class="figure-right">-->
+<!--                <img src="assets/img/uni.jpg" width="501" srcset="assets/img/uni.jpg 500w, assets/img/uni.jpg 800w, assets/img/uni.jpg 852w" sizes="(max-width: 479px) 67vw, (max-width: 767px) 301px, (max-width: 991px) 26vw, 301px" alt="" />-->
 
-### Publications
+<!--            </div>-->
+            <h2>Education</h2>
+            <p>
+              <span style="font-size: 12px">2019 - 2023</span><br/>
+              <strong><b>M.Sc. of Electrical Engineering - Power Systems</b></strong><br/>
+              <span style="margin-left: 4% !important; display:block !important;">
+                <span style="font-size: 12px;">
+                  <a href="https://ut.ac.ir" style="color: #8f8f8f; ">
+                    University of Tehran, Tehran, Iran
+                  </a>
+                </span><br/>
+                <span style="font-size: 14px">
+                  <b>Thesis:</b> Power Transformer Health Index Modeling Based on Intelligent Methods
+                </span>
+              </span>
+            </p>
 
-**Investigation on the characteristics of a Non-Pneumatic tire with different spoke shapes. [(Link)](ISME_NPT_Faraji.pdf)** Faraji, M.A, Daneshmehr, A.R. 2022. The 30th Annual International Conference of Iranian Society of Mechanical Engineers-ISME2022.
+            <p>
+              <span style="font-size: 12px">2014 - 2019</span><br/>
+              <strong><b>B.Sc. of Electrical Engineering</b></strong><br/>
+              <span style="margin-left: 4% !important; display:block !important;">
+                <span style="font-size: 12px;">
+                  <a href="https://basu.ac.ir" style="color: #8f8f8f; ">
+                    Bu-Ali Sina University, Hamedan, Iran
+                  </a>
+                </span><br/>
+                <span style="font-size: 14px">
+                  <b>Thesis:</b> Optimizing Microgrids for Cost Reduction: An Investigation of Production Costs
+                </span>
+              </span>
+            </p>
 
-**Computational study on a DAH auxetic structure manufactured by corrugated sheets. [(Link)](ICME_Faraji.pdf)** Faraji, M.A, Mazaheri, H. 2020. International Conference on Manufacturing Engineering at Tarbiat Modares University-ICME 2018.
+          </div>
+```
+```{=html}
+          <div id="Publications" data-w-id="2c86c950-4b72-78b3-45ed-fc9607e278fe"  class="about-intro w-clearfix">
+<!--            <div class="figure-right"><img src="assets/img/uni.jpg" sizes="(max-width: 479px) 87vw, (max-width: 767px) 36vw, (max-width: 991px) 33vw, 424px" alt="" />-->
+<!--            <div class="figure-right">-->
+<!--                <img src="assets/img/uni.jpg" width="501" srcset="assets/img/uni.jpg 500w, assets/img/uni.jpg 800w, assets/img/uni.jpg 852w" sizes="(max-width: 479px) 67vw, (max-width: 767px) 301px, (max-width: 991px) 26vw, 301px" alt="" />-->
 
-**Investigation on applications of unsupervised learning methods in clustering the test results of transformers.** (Work in progress)
+<!--            </div>-->
+            <h2>Publications</h2>
+            <p>
+              <strong><b>Investigation on applications of unsupervised learning methods in clustering the test results of transformers</b></strong><br/>
+                (Work in progress)
 
-### GitHub Projects
+            </p>
+          </div>
+```
+```{=html}
+<div id="ta" data-w-id="e2b6ec92-6089-848e-fcb0-ec7e4c84bf4c" class="about-intro w-clearfix">
+<!--            <div class="figure-right"><img src="assets/img/uni.jpg" sizes="(max-width: 479px) 87vw, (max-width: 767px) 36vw, (max-width: 991px) 33vw, 424px" alt="" />-->
+<!--            <div class="figure-right">-->
+<!--                <img src="assets/img/uni.jpg" width="501" srcset="assets/img/uni.jpg 500w, assets/img/uni.jpg 800w, assets/img/uni.jpg 852w" sizes="(max-width: 479px) 67vw, (max-width: 767px) 301px, (max-width: 991px) 26vw, 301px" alt="" />-->
 
-[**Comprehensive Study on Feature Importance of Transformers Test Data:**](https://github.com/NimaFrj/transformers-feature-importance)
+<!--            </div>-->
+            <h2>Teaching Assistance</h2>
+              <p>
+              <span style="font-size: 12px"> Sep 2020 - Dec 2020</span><br/>
+              <strong>Power Systems Dynamics 1</strong><br/>
+              <span style="margin-left: 4% !important; display:block !important;">
+                <span style="font-size: 12px;">
+                    Instructed by Dr. Moien Abedini, University of Tehran
 
-Extracting feature importance of transformers test data and examining their dependencies.
+                </span><br/>
+                <span style="font-size: 14px">
+                  <b>Responsibilities:</b> Designing and Grading Assignments and Projects
+                </span>
+              </span>
+            </p>
 
-[**Debiasing:**](https://github.com/NimaFrj/Debiasing/blob/main/Debiasing.ipynb)
+              <p>
+              <span style="font-size: 12px">Sep 2020 - Dec 2020</span><br/>
+              <strong>Analysis of Power Systems Transients</strong><br/>
+              <span style="margin-left: 4% !important; display:block !important;">
+                <span style="font-size: 12px;">
+                    Instructed by Dr. Mahdi Davarpanah, University of Tehran
 
-This code is part of the MIT intro to deep learning course.
+                </span><br/>
+                <span style="font-size: 14px">
+                  <b>Responsibilities:</b> Recording videos to teach implementation of course materials
+                </span>
+              </span>
+            </p>
+            <p>
+              <span style="font-size: 12px">Sep 2018 - Nov 2018</span><br/>
+              <strong>Python</strong><br/>
+              <span style="margin-left: 4% !important; display:block !important;">
+                                  <span style="font-size: 12px;">
+                 
+                    Workshop, Bu-Ali Sina University
+                </span><br/>
+                <span style="font-size: 14px">
+                  <b>Responsibilities:</b> Teaching classes, Design and grading assignments and projects
+                </span>
+              </span>
+            </p>
 
-[**Image Segmentation:**](https://github.com/NimaFrj/Image_Segmentation/blob/main/image-segmentation.ipynb)
+            <p>
+              <span style="font-size: 12px">Feb 2018 - May 2018</span><br/>
+              <strong>Fundemtals of Electrical Engineering</strong><br/>
+              <span style="margin-left: 4% !important; display:block !important;">
+                <span style="font-size: 12px;">
+                 
+                    Instructed by Dr. Mohamadmahdi Shahbazi, Bu-Ali Sina University
+                </span><br/>
+                <span style="font-size: 14px">
+                  <b>Responsibilities:</b> Teaching classes, Design and grading assignments
+                </span>
+              </span>
+            </p>
 
-Using Clustering for Image Segmentation.
+            <p>
+              <span style="font-size: 12px">Sep 2017 - Dec 2017</span><br/>
+              <strong>Industrial Electronics</strong><br/>
+              <span style="margin-left: 4% !important; display:block !important;">
+                <span style="font-size: 12px;">
+                  Instructed by Dr. Mohamadmahdi Shahbazi, Bu-Ali Sina University
+                </span><br/>
+                <span style="font-size: 14px">
+                  <b>Responsibilities:</b> Teaching classes, Design and grading assignments
+                </span>
+              </span>
+            </p>
+            <p>
+              <span style="font-size: 12px">Sep 2017 - Dec 2017</span><br/>
+              <strong>Electrical Machines 1</strong><br/>
+              <span style="margin-left: 4% !important; display:block !important;">
+                <span style="font-size: 12px;">
+                  
+                    Instructed by Dr. Mohamad Amin Ghasemi, Bu-Ali Sina University
 
-[**Pen or Pencil classifier**](https://nimafrj.github.io/Pencil_Website/pencil.html)**:**
 
-It's whole objective is to simply classify whether the input is the picture of a pen or a pencil that is trained on the pictures from the internet.
+                </span><br/>
+                <span style="font-size: 14px">
+                  <b>Responsibilities:</b> Teaching classes, Design and grading assignments
+                </span>
+              </span>
+            </p>
+            <p>
+              
+          </div>
+```
+```{=html}
+<div>
+            <h2>Awards</h2>
+              <p>
+                <b><span style="font-size: 9pt; color: #691d9d">2019 - Iran</span><br/></b>
+                <span style="margin-left: 2% !important; display:block !important;">
+                    <span style="font-size: 14px">Ranked within <b>top 0.1%</b> among more than 40,000 participations in <b>Iranian university entrance exam</b> for Matesr’s degree (<b>Rank 35</b>).
+</span>
+                </span>
+              </p>
+              <p>
+                <b><span style="font-size: 9pt; color: #691d9d">2014 - Iran</span><br/></b>
+                <span style="margin-left: 2% !important; display:block !important;">
+                    <span style="font-size: 14px">Ranked within <b>top 1%</b> among more than 222,000 participations in <b>Iranian university entrance exam</b> for Bachelor’s degree (<b>Rank 1525</b>).</span>
+                </span>
+            </p>
+            <p>
+
+                         </div>
+ 
+                
+```
 :::
