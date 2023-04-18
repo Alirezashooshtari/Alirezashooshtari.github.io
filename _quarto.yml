@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - resume.pdf
+    - cv.pdf
+
+website:
+  title: ""
+  site-url: https://nimafrj.github.io
+  description: "Personal Website"
+  open-graph:
+    locale: en_US
+  twitter-card:
+    creator: "@darvacki"
+  comments:
+    utterances:
+      repo: mikemahoney218/mm218.dev
+  navbar:
+    right:
+      - text: "Home"
+        href: index.html
+      - text: "Blog"
+        href: Blog/index.html
+      - icon: rss
+        href: blog.xml
+format:
+  html:
+    theme: simplex
