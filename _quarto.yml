@@ -7,12 +7,10 @@ project:
 
 website:
   title: ""
-  site-url: https://nimafrj.github.io
+  site-url: https://alirezashooshtari.github.io
   description: "Personal Website"
   open-graph:
     locale: en_US
-  twitter-card:
-    creator: "@darvacki"
   comments:
     utterances:
       repo: mikemahoney218/mm218.dev

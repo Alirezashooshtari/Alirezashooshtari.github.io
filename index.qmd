@@ -1,23 +1,17 @@
 ---
-title: "Mohammad Amin Faraji"
-image: avatar.jpg
-about:
+title: "AliReza Shooshtari"
+image: Picture.png
   template: trestles
   links:
     - text: LinkedIn
-      url: "https://www.linkedin.com/in/nimafaraji/"
-    - text: Twitter
-      icon: twitter
-      url: "https://twitter.com/darvacki"
+      url: "linkedin.com/in/alireza-shooshtari/"
     - text: GitHub
       icon: github
-      url: "https://github.com/nimafrj"
+      url: "https://github.com/Alirezashooshtari"
     - text: Email
-      url: "mailto:frjnima@gmail.com"
-    - text: Blog
-      url: "Blog"
+      url: "mailto:a.shooshtari1996@gmail.com"
     - text: CV
-      url: "cv2.pdf"
+      url: "Alireza Shooshtari CV.pdf"
 comments: false
 ---
 
