@@ -19,7 +19,7 @@ comments: false
 ::: column-page
 ## About Me
 
-Hello, my name is Alireza and I am a recent graduate of Tehran University with a degree in power engineering. My research interests lie in the applications of artificial intelligence and machine learning in various fields such as medicine, genetics, and electricity. My ultimate goal is to become an influential person in the improvement of society and people's lives, and I believe that artificial intelligence is a suitable tool for achieving this goal. At present, my aspiration is to obtain a Ph.D. in computer science or AI engineering in order to make additional contributions to the field of artificial intelligence.
+Hello, my name is Alireza and I am a recent graduate of Tehran University with a degree in power engineering. My research interests lie in the applications of artificial intelligence and machine learning in various fields such as Electrical and biomedical engineering and data science. My ultimate goal is to become an influential person in the improvement of society and people's lives, and I believe that artificial intelligence is a suitable tool for achieving this goal. At present, my aspiration is to obtain a Ph.D. in computer science or AI engineering in order to make additional contributions to the field of artificial intelligence.
 
 In my spare time, I enjoy watching movies, studying astronomy and physics, as well as football.
 :::
