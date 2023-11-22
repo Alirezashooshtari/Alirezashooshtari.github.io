@@ -74,8 +74,9 @@ In my spare time, I enjoy watching movies, studying astronomy and physics, as we
 <!--            </div>-->
             <h2>Publications</h2>
             <p>
-              <strong><b>Investigation on applications of unsupervised learning methods in clustering the test results of transformers</b></strong><br/>
-                (Work in progress)
+              <strong><b><a href="https://www.mdpi.com/2566444" style="color: black; ">Stacked Ensemble Regression Model for Prediction of Furan</a>
+              </b></strong><br/>
+              Energies 2023
 
             </p>
           </div>
